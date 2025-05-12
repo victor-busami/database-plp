@@ -21,5 +21,5 @@ This project models a relational database for a clinic, supporting:
 
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/clinic-booking-system.git
+   git clone https://github.com/victor-busami/database-plp.git
    ```
